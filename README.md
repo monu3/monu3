@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend .<br>🌱 I’m currently learning  Spring Boot (java).<br>💬 I'm a student of BSc.CSIT in Nepal .<br>
+🔭 I’m currently working as a DevOps Engineer.
 
 
 ## 🌐 Socials:
